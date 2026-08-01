@@ -1,119 +1,158 @@
 # 👋 Hi, I'm Lakshmi Pavan Kalyan Imandi
 
-### 🚀 Electronics & Communication Engineering Student | Embedded Systems | IoT | Robotics Enthusiast
+<h3 align="center">Embedded Systems | IoT | Robotics | Electronics Engineer</h3>
 
-I'm a passionate Electronics & Communication Engineering (ECE) student with a strong interest in **Embedded Systems, IoT, Robotics, PCB Design, and Automation**. I enjoy transforming ideas into real-world hardware projects using microcontrollers, sensors, and modern engineering tools.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech in Electronics & Communication Engineering
-- 🏫 Raghu Engineering College (2024–2027)
-- 📍 Visakhapatnam, Andhra Pradesh, India
-- 💡 Interested in Embedded Systems, Robotics, IoT, and PCB Design
-- 🌱 Currently learning Advanced ESP32 Development, IoT Dashboards, and Embedded AI
-- 🎯 Goal: Become an Embedded Systems & Robotics Engineer
+<p align="center">
+Passionate Electronics & Communication Engineering student focused on Embedded Systems, IoT, Robotics, PCB Design, and Automation.
+</p>
 
 ---
 
-# 🛠️ Technical Skills
+## 🌐 Connect With Me
 
-### Programming Languages
-- C
-- Embedded C
-- Python
+<p align="center">
 
-### Embedded Platforms
-- ESP32
-- Arduino UNO
-- Arduino Nano
-- ESP8266
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### Communication Protocols
-- I2C
-- SPI
-- UART
-- Wi-Fi
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### Sensors & Modules
-- DHT11 / DHT22
-- LM35
-- DS18B20
-- HC-SR04
-- MQ2 Gas Sensor
-- IR Sensors
-- RTC Module
-- SD Card Module
-- Servo Motors
-- L293D
-- L298N
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### Software & Tools
-- Arduino IDE
-- Fusion 360
-- Proteus
-- EasyEDA
-- Vivado
-- Git & GitHub
+</p>
+
+---
+
+# 💻 Programming Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</p>
+
+---
+
+# ⚡ Embedded Platforms
+
+<p>
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Arduino%20Nano-00878F?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🔌 Communication Protocols
+
+<p>
+
+<img src="https://img.shields.io/badge/I2C-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SPI-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/UART-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/WiFi-2196F3?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📟 Sensors & Modules
+
+<p>
+
+<img src="https://img.shields.io/badge/DHT11-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DHT22-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HC--SR04-3F51B5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MQ2-E53935?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DS18B20-673AB7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LM35-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Servo%20Motor-607D8B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/L293D-8BC34A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/L298N-9C27B0?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🛠️ Software & Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Fusion_360-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Proteus-1E88E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/EasyEDA-1765F2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Vivado-C62828?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 4-DOF Robotic Arm
-- ESP32 Based Robotic Arm
-- Wi-Fi Web Dashboard
-- Servo Control using PCA9685
-- Record & Playback Feature
-- EEPROM Position Storage
-- Responsive Web Interface
-
----
-
-## 🌡️ IoT Temperature Monitoring System
-
-Features
-
-- ESP32
-- DHT11/DHT22
-- Live Web Dashboard
-- AJAX Auto Refresh
-- LCD Display
-- RGB Status LED
-- Buzzer Alert
-- Temperature Graph
-- Mobile Responsive UI
-
----
-
-## 🚧 Obstacle Avoidance Robot
-
-- ESP32
-- Ultrasonic Sensor
-- Servo Motor
-- L298N Motor Driver
-- Autonomous Navigation
-
----
-
-## 🚨 Smart Gas Leakage Detection
-
-- MQ2 Sensor
-- Arduino
-- Buzzer Alarm
-- LED Indicators
-- Real-Time Detection
-
----
-
-## 🌱 Smart Garden Monitoring System
-
-- Temperature Monitoring
-- Humidity Monitoring
-- Soil Moisture Simulation
-- LCD Display
-- Automatic Status Monitoring
+- 🤖 4-DOF Wi-Fi Robotic Arm
+- 🌡️ ESP32 IoT Temperature Monitoring System
+- 🚧 Obstacle Avoidance Robot
+- 🚨 Smart Gas Leakage Detection
+- 🌱 Smart Garden Monitoring System
 
 ---
 
@@ -121,7 +160,7 @@ Features
 
 🥈 Runner-Up – Circuitry Connect
 
-🥈 Second Prize – Project Expo (The Life Saver)
+🥈 Second Prize – Project Expo
 
 ---
 
@@ -134,37 +173,12 @@ Features
 
 ---
 
-# 📈 GitHub Stats
-
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
 </p>
 
 ---
 
-# 📫 Connect With Me
-
-GitHub:
-https://github.com/YOUR_USERNAME
-
-LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN
-
-Email:
-your.email@example.com
-
----
-
-## 💡 Quote
-
-> "Engineering is not only about solving problems, but also about creating possibilities."
-
----
-
-⭐ If you like my projects, don't forget to star the repositories!
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
