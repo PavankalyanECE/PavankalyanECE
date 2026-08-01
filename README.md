@@ -93,11 +93,19 @@ Passionate Electronics & Communication Engineering student focused on building i
 
 ## 📡 Communication Protocols
 
-- UART
-- SPI
-- I²C
-- Wi-Fi
-- Bluetooth
+<p align="left">
+
+<img src="https://img.shields.io/badge/UART-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SPI-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/I²C-7B1FA2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wi--Fi-2196F3?style=for-the-badge&logo=wifi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white"/>
+
+</p>
 
 ---
 
