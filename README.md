@@ -76,27 +76,6 @@ Passionate Electronics & Communication Engineering student focused on building i
 
 ## 💻 Software & Tools
 
-<p align="left">
-
-<!-- VS Code -->
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-
-<!-- Git -->
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-
-<!-- GitHub -->
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-
-<!-- PyCharm -->
-<img src="https://skillicons.dev/icons?i=pycharm" height="50"/>
-
-<!-- Arduino -->
-<img src="https://cdn.simpleicons.org/arduino/00979D" height="50"/>
-
-<!-- EasyEDA -->
-<img src="https://cdn.simpleicons.org/easyeda" height="50"/>
-
-</p>
 
 | Software | Description |
 |-----------|-------------|
