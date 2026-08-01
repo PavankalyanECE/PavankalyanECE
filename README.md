@@ -53,9 +53,13 @@ Passionate Electronics & Communication Engineering student focused on building i
 
 ## 💻 Programming Languages
 
-<p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=c,python"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Embedded%20C-0A66C2?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </p>
 
