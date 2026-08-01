@@ -111,43 +111,26 @@ Passionate Electronics & Communication Engineering student focused on building i
 
 ## 🔌 Sensors & Modules
 
-### Temperature Sensors
-- DHT11
-- DHT22
-- LM35
-- DS18B20
-
-### Distance Sensors
-- HC-SR04 Ultrasonic Sensor
-
-### Gas Sensors
-- MQ-2 Gas Sensor
-
-### Motion Sensors
-- IR Obstacle Sensor
-
-### Motor Drivers
-- L293D
-- L298N
-
-### Display Modules
-- 16×2 LCD
-- I2C LCD
-- OLED Display
-
-### RTC Modules
-- DS1307
-- DS3231
-
-### Storage
-- SD Card Module
-
-### Actuators
-- SG90 Servo Motor
-- MG996R Servo Motor
-- DC Motor
-- Buzzer
-- RGB LED
+| Type | Device | Purpose |
+|------|--------|---------|
+| 🌡️ Temperature | DHT11, DHT22 | Temperature & Humidity |
+| 🌡️ Temperature | LM35 | Temperature Measurement |
+| 🌡️ Temperature | DS18B20 | Digital Temperature Sensor |
+| 📏 Distance | HC-SR04 | Distance Measurement |
+| 🔥 Gas | MQ-2 | Smoke & Gas Detection |
+| 👀 Detection | IR Sensor | Obstacle Detection |
+| ⚙️ Motor Driver | L293D | DC Motor Control |
+| ⚙️ Motor Driver | L298N | High-Power Motor Control |
+| 🖥️ Display | 16×2 LCD | Display Output |
+| 🖥️ Display | I2C LCD | LCD with I²C Interface |
+| 🕒 RTC | DS1307 / DS3231 | Real-Time Clock |
+| 💾 Storage | SD Card Module | Data Logging |
+| ⚡ Power | TP4056 | Li-ion Battery Charging |
+| 🔄 Actuator | SG90 Servo | Small Servo Motor |
+| 🔄 Actuator | MG996R Servo | High-Torque Servo |
+| ⚙️ Motor | DC Motor | Motion Control |
+| 🔔 Output | Buzzer | Audio Alert |
+| 💡 Output | RGB LED | Status Indication |
 
 ---
 
