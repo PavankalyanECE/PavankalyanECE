@@ -9,15 +9,6 @@ Embedded Systems Engineer | IoT Developer | Robotics Enthusiast
 Passionate Electronics & Communication Engineering student focused on building intelligent Embedded Systems, IoT devices, Robotics, and Automation solutions.
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-## 📫 Connect With Me
 
 <p align="center">
 
