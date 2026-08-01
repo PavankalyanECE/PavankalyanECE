@@ -67,12 +67,6 @@ Passionate Electronics & Communication Engineering student focused on building i
 
 ## ⚡ Embedded Platforms
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=arduino"/>
-
-</p>
-
 - ESP32
 - ESP8266
 - Arduino UNO
