@@ -197,7 +197,6 @@ Passionate Electronics & Communication Engineering student focused on building i
 
 ---
 
-# 🏅 GitHub Trophies
 
 <p align="center">
 
