@@ -104,45 +104,70 @@ Passionate Electronics & Communication Engineering student focused on building i
 
 # 🚀 Featured Projects
 
-### 🤖 4-DOF Wi-Fi Robotic Arm
+### 🦾 ESP32 Robotic Arm with Custom Web Dashboard
 
-- ESP32 Based Control
-- Wireless Web Dashboard
-- EEPROM Motion Recording
-- Servo Speed Control
-- Real-Time Position Control
+An ESP32-powered robotic arm featuring a responsive, self-hosted web dashboard for wireless control and automation.
 
-### 🌡 IoT Temperature & Humidity Monitoring
+**Highlights**
+- 🌐 Self-hosted Wi-Fi dashboard
+- 🎛️ Real-time servo control
+- ⚡ Motion smoothing algorithms
+- 💾 Position recording & EEPROM storage
+- ▶️ Sequence playback (Play / Pause / Stop / Loop)
+- ⚙️ Adjustable movement speed
+- ✋ Gripper pressure control
+- 🏠 Home & Custom Position presets
+- 🌙 Dark & Light mode
+- 🚨 Emergency stop
+- 📱 Mobile responsive interface
 
-- ESP32
-- DHT11/DHT22
-- Live Dashboard
-- AJAX Auto Refresh
-- LCD Display
-- RGB LED Status
-- Buzzer Alerts
-- Temperature History Graph
+**Technologies:** ESP32, PCA9685, MG996R, SG90, Embedded C++, HTML, CSS, JavaScript
 
-### 🚧 Obstacle Avoidance Robot
+---
 
-- ESP32
-- HC-SR04
-- Servo Scanning
-- Autonomous Navigation
+### 🤖 ESP32 Object Avoidance Robot
 
-### 🚨 Smart Gas Leakage Detection
+An autonomous obstacle avoidance robot that scans its surroundings using an ultrasonic sensor mounted on a servo motor and intelligently chooses the clearest path.
 
-- MQ-2 Sensor
-- Arduino
-- Buzzer Alarm
-- LED Alerts
+**Highlights**
+- 🚗 Autonomous navigation
+- 📏 HC-SR04 ultrasonic obstacle detection
+- 🔄 Servo-based environmental scanning
+- 🧠 Intelligent path selection
+- ⚡ ESP32-based control
+- 🔋 Battery powered
 
-### 🌱 Smart Garden Monitoring System
+**Technologies:** ESP32, HC-SR04, SG90 Servo, L298N Motor Driver
 
-- Temperature Monitoring
-- Humidity Monitoring
-- Soil Moisture Monitoring
-- LCD Display
+---
+
+### 🚨 Smoke & Gas Detection Alarm
+
+A smart gas detection system that continuously monitors smoke and combustible gases and provides instant visual and audible alerts.
+
+**Highlights**
+- 🔥 Real-time gas detection
+- 🚨 Buzzer alarm
+- 🔴🟢 LED status indicators
+- 🎚️ Adjustable detection threshold
+- 💻 Live Serial Monitor readings
+
+**Technologies:** Arduino UNO, MQ-2 Gas Sensor, Buzzer, LEDs
+
+---
+
+### 📡 Arduino Ultrasonic Radar System
+
+A 180° radar visualization system using Arduino and Processing that displays detected objects on a radar-style graphical interface.
+
+**Highlights**
+- 📡 180° radar scanning
+- 🎯 Real-time object tracking
+- 🚨 Buzzer alert below 30 cm
+- 🖥️ Processing 4 radar visualization
+- ⚡ Live serial communication
+
+**Technologies:** Arduino UNO, HC-SR04, SG90 Servo, Processing 4
 
 ---
 
