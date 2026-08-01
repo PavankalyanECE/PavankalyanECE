@@ -203,11 +203,13 @@ To become a highly skilled Embedded Systems and Robotics Engineer by developing 
 
 # 📫 Reach Me
 
-📧 Email: **YOUR_EMAIL@gmail.com**
+📧 **Email:** pavankalyan.imandi22@gmail.com
 
-💼 LinkedIn: **https://linkedin.com/in/YOUR_LINKEDIN_USERNAME**
+💼 **LinkedIn:** https://www.linkedin.com/in/pavan-kalyan-imandi/
 
-🌐 GitHub: **https://github.com/YOUR_GITHUB_USERNAME**
+💻 **GitHub:** https://github.com/PavankalyanECE
+
+▶️ **YouTube:** https://www.youtube.com/@KalyanXperiments
 
 ---
 
